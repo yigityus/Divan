@@ -101,7 +101,7 @@ class FihristScreen extends Component {
 
   formatData(data) {
     // We're sorting by alphabetically so we need the alphabet
-    const alphabet = 'elif,be,pe,te,çe,ra'.split(',');
+    const alphabet = 'elif,be,pe,te,çe,ra,za,sin,şın,gayn,kaf,kef,lam,mim,nun,vav,ya'.split(',');
 
     // Need somewhere to store our data
     const dataBlob = {};
