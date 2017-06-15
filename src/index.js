@@ -5,7 +5,10 @@ import {
   View,
   Button,
   ListView,
-  ScrollView
+  ScrollView,
+  TouchableOpacity,
+  Modal,
+  TouchableHighlight
 } from 'react-native';
 
 import { StackNavigator } from 'react-navigation';
@@ -15,6 +18,15 @@ class PoemScreen extends React.Component {
   static navigationOptions = ({ navigation }) => ({
     title: navigation.state.params.poem.siir[0].beyit[0],
   });
+
+  state = {
+    modalVisible: false,
+  }
+
+  setModalVisible(visible) {
+    this.setState({modalVisible: visible});
+  }
+
   render() {
     // The screen's current route is passed in to `props.navigation.state`:
     const { params } = this.props.navigation.state;
@@ -22,9 +34,36 @@ class PoemScreen extends React.Component {
     return (
         <ScrollView>
           <View select style={styles.container}>
+            <Modal
+                animationType={"slide"}
+                transparent={true}
+                visible={this.state.modalVisible}
+                onRequestClose={() => {alert("Modal has been closed.")}}
+            >
+              <View style={{marginTop: 22}}>
+                <View>
+                  <Text>Hello World!</Text>
+
+                  <TouchableHighlight onPress={() => {
+              this.setModalVisible(!this.state.modalVisible)
+            }}>
+                    <Text>Hide Modal</Text>
+                  </TouchableHighlight>
+
+                </View>
+              </View>
+            </Modal>
             <Text selectable={true}>
               {this.renderPoem(params.poem)}
             </Text>
+
+
+            <TouchableOpacity onPress={() => {
+          this.setModalVisible(true)
+        }}>
+              <Text>Show Modal</Text>
+            </TouchableOpacity>
+
           </View>
         </ScrollView>
     );
@@ -36,9 +75,8 @@ class PoemScreen extends React.Component {
           <Text key={siir.id}>
             <Text style={{fontWeight: 'bold', fontSize: 15,}}>{siir.id}{"\n"}</Text>
             <Text style={ {fontSize: 15,} }>{siir.beyit[0]}{"\n"}</Text>
-            <Text style={ {fontSize: 15,} }>{siir.beyit[1]}{"\n"}</Text>
+            <Text style={ {fontSize: 15,} }>{siir.beyit[1]} <Text onPress={() => console.log('1st')}>ⓘ</Text>{"\n"}</Text>
 
-            <Text style={{flex:1, height: 30,}}>{this.renderSozluk(siir.sozluk)}</Text>
             <Text>{"\n"}</Text>
           </Text>
       );
