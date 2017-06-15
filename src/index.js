@@ -32,9 +32,28 @@ class PoemScreen extends React.Component {
 
   renderPoem(poem) {
     beyits = poem.siir.map( (siir) => {
-      return (<Text key={siir.id}><Text style={{fontWeight: 'bold', fontSize: 15,}}>{siir.id}{"\n"}</Text><Text style={ {fontSize: 15,} }>{siir.beyit[0]}{"\n"}</Text><Text style={ {fontSize: 15,} }>{siir.beyit[1]}{"\n"}</Text></Text>)
+      return (
+          <Text key={siir.id}>
+            <Text style={{fontWeight: 'bold', fontSize: 15,}}>{siir.id}{"\n"}</Text>
+            <Text style={ {fontSize: 15,} }>{siir.beyit[0]}{"\n"}</Text>
+            <Text style={ {fontSize: 15,} }>{siir.beyit[1]}{"\n"}</Text>
+
+            <Text style={{flex:1, height: 30,}}>{this.renderSozluk(siir.sozluk)}</Text>
+            <Text>{"\n"}</Text>
+          </Text>
+      );
     })
     return beyits;
+  }
+
+  renderSozluk(sozluk) {
+    let wordsCount = 0;
+    let words = sozluk.map((k) => {
+      return (
+          <Text key={wordsCount++} style={{fontSize: 12, }}><Text style={{fontWeight: 'bold'}}>{k.a}</Text>{k.b}{"\n"}</Text>
+      )
+    })
+    return words;
   }
 }
 
@@ -86,7 +105,14 @@ class FihristScreen extends Component {
 
     const { navigate } = this.props.navigation;
 
-    const myRender = (data) => <View style={{flex: 1, flexDirection: 'row', }}><Text selectable={true} style={styles.item} onPress={() => navigate('Poem', { poem: data })}><Text selectable={true} style={{fontWeight: 'bold', }}>{data.id}  </Text><Text selectable={true}>{data.siir[0].beyit[0]}</Text></Text></View>;
+    const myRender = (data) => (
+        <View style={{flex: 1, flexDirection: 'row', }}>
+          <Text selectable={true} style={styles.item} onPress={() => navigate('Poem', { poem: data })}>
+            <Text selectable={true} style={{fontWeight: 'bold', }}>{data.id}{"\t"}</Text>
+            <Text selectable={true}>{data.siir[0].beyit[0]}</Text>
+          </Text>
+        </View>
+    );
 
     return (
         <ListView
