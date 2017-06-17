@@ -6,64 +6,45 @@ import {
   Button,
   ListView,
   ScrollView,
-  TouchableOpacity,
-  Modal,
-  TouchableHighlight
+  TouchableOpacity
 } from 'react-native';
 
 import { StackNavigator } from 'react-navigation';
 
 class PoemScreen extends React.Component {
+
+  constructor(props) {
+    super(props);
+    console.log(props.navigation.state.params);
+
+    this.state = {
+      sozlukVisible: [],
+      scrollOffset: 0,
+    }
+
+  }
+
   // Nav options can be defined as a function of the screen's props:
   static navigationOptions = ({ navigation }) => ({
     title: navigation.state.params.poem.siir[0].beyit[0],
   });
 
-  state = {
-    modalVisible: false,
-  }
 
-  setModalVisible(visible) {
-    this.setState({modalVisible: visible});
-  }
 
   render() {
     // The screen's current route is passed in to `props.navigation.state`:
     const { params } = this.props.navigation.state;
 
     return (
-        <ScrollView>
+        <ScrollView
+            ref={ref => this.scrollView = ref}
+            onScroll={(handleScroll) => this.handleScroll = handleScroll}
+
+        >
           <View select style={styles.container}>
-            <Modal
-                animationType={"slide"}
-                transparent={true}
-                visible={this.state.modalVisible}
-                onRequestClose={() => {alert("Modal has been closed.")}}
-            >
-              <View style={{marginTop: 22}}>
-                <View>
-                  <Text>Hello World!</Text>
-
-                  <TouchableHighlight onPress={() => {
-              this.setModalVisible(!this.state.modalVisible)
-            }}>
-                    <Text>Hide Modal</Text>
-                  </TouchableHighlight>
-
-                </View>
-              </View>
-            </Modal>
             <Text selectable={true}>
               {this.renderPoem(params.poem)}
             </Text>
-
-
-            <TouchableOpacity onPress={() => {
-          this.setModalVisible(true)
-        }}>
-              <Text>Show Modal</Text>
-            </TouchableOpacity>
-
           </View>
         </ScrollView>
     );
@@ -75,8 +56,9 @@ class PoemScreen extends React.Component {
           <Text key={siir.id}>
             <Text style={{fontWeight: 'bold', fontSize: 15,}}>{siir.id}{"\n"}</Text>
             <Text style={ {fontSize: 15,} }>{siir.beyit[0]}{"\n"}</Text>
-            <Text style={ {fontSize: 15,} }>{siir.beyit[1]} <Text onPress={() => console.log('1st')}>ⓘ</Text>{"\n"}</Text>
-
+            <Text style={ {fontSize: 15,} }>{siir.beyit[1]} {this.renderSozlukButton(siir.sozluk.length, siir.id)} {"\n"}</Text>
+            <Text>{"\n"}</Text>
+            {this.renderSozluk(siir.sozluk, siir.id)}
             <Text>{"\n"}</Text>
           </Text>
       );
@@ -84,14 +66,34 @@ class PoemScreen extends React.Component {
     return beyits;
   }
 
-  renderSozluk(sozluk) {
+  renderSozluk(sozluk, siirId) {
     let wordsCount = 0;
     let words = sozluk.map((k) => {
-      return (
-          <Text key={wordsCount++} style={{fontSize: 12, }}><Text style={{fontWeight: 'bold'}}>{k.a}</Text>{k.b}{"\n"}</Text>
-      )
+      if (this.state.sozlukVisible[siirId]) {
+        return (
+            <Text key={wordsCount++} style={{fontSize: 12, }}><Text style={{fontWeight: 'bold'}}>{k.a}</Text>{k.b}{"\n"}</Text>
+        )
+      }
     })
     return words;
+  }
+
+  renderSozlukButton(length, siirId) {
+    if (length && length > 0) {
+
+
+      sozlukVisible = this.state.sozlukVisible;
+      return <Text onPress={() =>  {
+
+      }}>ⓘ</Text>;
+    }
+  }
+
+  handleScroll(e:Object) {
+    console.log(e.nativeEvent.contentOffset.y);
+    scrollOffset = e.nativeEvent.contentOffset.y;
+
+    console.log(scrollOffset);
   }
 }
 
