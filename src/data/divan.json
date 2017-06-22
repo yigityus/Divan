@@ -965,7 +965,7 @@
     {
       "tag": "elif",
       "id": 6,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -1945,7 +1945,7 @@
     {
       "tag": "elif",
       "id": 12,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -2443,7 +2443,7 @@
     {
       "tag": "be",
       "id": 15,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -2901,7 +2901,7 @@
     {
       "tag": "te",
       "id": 18,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -3146,7 +3146,7 @@
     {
       "tag": "te",
       "id": 19,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -3309,7 +3309,7 @@
     {
       "tag": "elif",
       "id": 20,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -3664,7 +3664,7 @@
     {
       "tag": "ra",
       "id": 22,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -3788,7 +3788,7 @@
     {
       "tag": "ra",
       "id": 23,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -4070,7 +4070,7 @@
     {
       "tag": "ra",
       "id": 25,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -4216,7 +4216,7 @@
     {
       "tag": "ra",
       "id": 26,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -4778,7 +4778,7 @@
     {
       "tag": "ra",
       "id": 29,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -5368,7 +5368,7 @@
     {
       "tag": "ra",
       "id": 33,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -5572,7 +5572,7 @@
     {
       "tag": "ra",
       "id": 34,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -5708,7 +5708,7 @@
     {
       "tag": "ra",
       "id": 35,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -5866,7 +5866,7 @@
     {
       "tag": "ra",
       "id": 36,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -5969,7 +5969,7 @@
     {
       "tag": "ra",
       "id": 37,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -6123,7 +6123,7 @@
     {
       "tag": "ra",
       "id": 38,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -6202,7 +6202,7 @@
     {
       "tag": "ra",
       "id": 39,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -6517,7 +6517,7 @@
     {
       "tag": "ra",
       "id": 41,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -6942,7 +6942,7 @@
     {
       "tag": "ra",
       "id": 43,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -7448,7 +7448,7 @@
     {
       "tag": "ra",
       "id": 46,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -7620,7 +7620,7 @@
     {
       "tag": "ra",
       "id": 47,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -8507,7 +8507,7 @@
     {
       "tag": "ra",
       "id": 51,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -8620,7 +8620,7 @@
     {
       "tag": "ra",
       "id": 51,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -9371,7 +9371,7 @@
     {
       "tag": "ra",
       "id": 56,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -9638,7 +9638,7 @@
     {
       "tag": "ra",
       "id": 57,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -9789,7 +9789,7 @@
     {
       "tag": "ra",
       "id": 58,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -9898,7 +9898,7 @@
     {
       "tag": "ra",
       "id": 59,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -10014,7 +10014,7 @@
     {
       "tag": "ra",
       "id": 60,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -10709,7 +10709,7 @@
     {
       "tag": "ra",
       "id": 64,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -10851,7 +10851,7 @@
     {
       "tag": "ra",
       "id": 65,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -10985,7 +10985,7 @@
     {
       "tag": "ra",
       "id": 66,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -11352,7 +11352,7 @@
     {
       "tag": "ra",
       "id": 68,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -11460,7 +11460,7 @@
     {
       "tag": "ra",
       "id": 69,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -11647,7 +11647,7 @@
     {
       "tag": "ra",
       "id": 70,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12318,7 +12318,7 @@
     {
       "tag": "ra",
       "id": 74,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12435,7 +12435,7 @@
     {
       "tag": "ra",
       "id": 75,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12509,7 +12509,7 @@
     {
       "tag": "ra",
       "id": 76,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12589,7 +12589,7 @@
     {
       "tag": "ra",
       "id": 77,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12864,7 +12864,7 @@
     {
       "tag": "ra",
       "id": 79,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -12968,7 +12968,7 @@
     {
       "tag": "ra",
       "id": 80,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13077,7 +13077,7 @@
     {
       "tag": "ra",
       "id": 81,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13239,7 +13239,7 @@
     {
       "tag": "ra",
       "id": 82,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13398,7 +13398,7 @@
     {
       "tag": "ra",
       "id": 83,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13558,7 +13558,7 @@
     {
       "tag": "ra",
       "id": 84,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13682,7 +13682,7 @@
     {
       "tag": "ra",
       "id": 85,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -13782,7 +13782,7 @@
     {
       "tag": "ra",
       "id": 86,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -14751,7 +14751,7 @@
     {
       "tag": "ra",
       "id": 91,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -14835,7 +14835,7 @@
     {
       "tag": "ra",
       "id": 92,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -14989,7 +14989,7 @@
     {
       "tag": "ra",
       "id": 93,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -15126,7 +15126,7 @@
     {
       "tag": "ra",
       "id": 94,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -15536,7 +15536,7 @@
     {
       "tag": "ra",
       "id": 97,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16232,7 +16232,7 @@
     {
       "tag": "za",
       "id": 102,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16365,7 +16365,7 @@
     {
       "tag": "za",
       "id": 103,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16470,7 +16470,7 @@
     {
       "tag": "za",
       "id": 104,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16654,7 +16654,7 @@
     {
       "tag": "za",
       "id": 105,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16750,7 +16750,7 @@
     {
       "tag": "za",
       "id": 106,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -16908,7 +16908,7 @@
     {
       "tag": "za",
       "id": 107,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17053,7 +17053,7 @@
     {
       "tag": "za",
       "id": 108,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17139,7 +17139,7 @@
     {
       "tag": "za",
       "id": 109,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17238,7 +17238,7 @@
     {
       "tag": "za",
       "id": 110,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17392,7 +17392,7 @@
     {
       "tag": "za",
       "id": 111,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17813,7 +17813,7 @@
     {
       "tag": "za",
       "id": 114,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17876,7 +17876,7 @@
     {
       "tag": "za",
       "id": 115,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -17968,7 +17968,7 @@
     {
       "tag": "za",
       "id": 116,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18125,7 +18125,7 @@
     {
       "tag": "za",
       "id": 117,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18298,7 +18298,7 @@
     {
       "tag": "za",
       "id": 118,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18470,7 +18470,7 @@
     {
       "tag": "sin",
       "id": 119,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18582,7 +18582,7 @@
     {
       "tag": "şın",
       "id": 120,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18709,7 +18709,7 @@
     {
       "tag": "şın",
       "id": 121,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -18901,7 +18901,7 @@
     {
       "tag": "şın",
       "id": 122,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19048,7 +19048,7 @@
     {
       "tag": "şın",
       "id": 123,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19206,7 +19206,7 @@
     {
       "tag": "şın",
       "id": 124,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19369,7 +19369,7 @@
     {
       "tag": "şın",
       "id": 125,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19484,7 +19484,7 @@
     {
       "tag": "gayın",
       "id": 126,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19701,7 +19701,7 @@
     {
       "tag": "kaf",
       "id": 127,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -19900,7 +19900,7 @@
     {
       "tag": "kaf",
       "id": 128,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -20227,7 +20227,7 @@
     {
       "tag": "kaf",
       "id": 130,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -20430,7 +20430,7 @@
     {
       "tag": "kaf",
       "id": 131,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -20589,7 +20589,7 @@
     {
       "tag": "kaf",
       "id": 132,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -20777,7 +20777,7 @@
     {
       "tag": "kaf",
       "id": 133,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -20940,7 +20940,7 @@
     {
       "tag": "kaf",
       "id": 134,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -21302,7 +21302,7 @@
     {
       "tag": "kef",
       "id": 135,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -21727,7 +21727,7 @@
     {
       "tag": "kef",
       "id": 136,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22240,7 +22240,7 @@
     {
       "tag": "kef",
       "id": 139,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22394,7 +22394,7 @@
     {
       "tag": "kef",
       "id": 140,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22565,7 +22565,7 @@
     {
       "tag": "kef",
       "id": 141,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22690,7 +22690,7 @@
     {
       "tag": "kef",
       "id": 142,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22811,7 +22811,7 @@
     {
       "tag": "kef",
       "id": 143,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -22962,7 +22962,7 @@
     {
       "tag": "kef",
       "id": 144,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23144,7 +23144,7 @@
     {
       "tag": "kef",
       "id": 145,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23266,7 +23266,7 @@
     {
       "tag": "kef",
       "id": 146,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23399,7 +23399,7 @@
     {
       "tag": "kef",
       "id": 147,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23513,7 +23513,7 @@
     {
       "tag": "kef",
       "id": 148,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23734,7 +23734,7 @@
     {
       "tag": "kef",
       "id": 149,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -23937,7 +23937,7 @@
     {
       "tag": "kef",
       "id": 150,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -24065,7 +24065,7 @@
     {
       "tag": "lam",
       "id": 151,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -24269,7 +24269,7 @@
     {
       "tag": "lam",
       "id": 152,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -24548,7 +24548,7 @@
     {
       "tag": "lam",
       "id": 153,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -24719,7 +24719,7 @@
     {
       "tag": "lam",
       "id": 154,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -24848,7 +24848,7 @@
     {
       "tag": "lam",
       "id": 155,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25072,7 +25072,7 @@
     {
       "tag": "lam",
       "id": 156,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25209,7 +25209,7 @@
     {
       "tag": "lam",
       "id": 157,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25388,7 +25388,7 @@
     {
       "tag": "lam",
       "id": 158,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25559,7 +25559,7 @@
     {
       "tag": "lam",
       "id": 159,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25710,7 +25710,7 @@
     {
       "tag": "lam",
       "id": 160,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -25923,7 +25923,7 @@
     {
       "tag": "lam",
       "id": 161,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26043,7 +26043,7 @@
     {
       "tag": "lam",
       "id": 162,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26134,7 +26134,7 @@
     {
       "tag": "lam",
       "id": 163,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26304,7 +26304,7 @@
     {
       "tag": "lam",
       "id": 164,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26475,7 +26475,7 @@
     {
       "tag": "lam",
       "id": 165,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26775,7 +26775,7 @@
     {
       "tag": "lam",
       "id": 166,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -26912,7 +26912,7 @@
     {
       "tag": "lam",
       "id": 167,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -27044,7 +27044,7 @@
     {
       "tag": "mim",
       "id": 168,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -27279,7 +27279,7 @@
     {
       "tag": "mim",
       "id": 169,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -27512,7 +27512,7 @@
     {
       "tag": "mim",
       "id": 170,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -27694,7 +27694,7 @@
     {
       "tag": "mim",
       "id": 171,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -27879,7 +27879,7 @@
     {
       "tag": "mim",
       "id": 172,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28011,7 +28011,7 @@
     {
       "tag": "mim",
       "id": 173,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28181,7 +28181,7 @@
     {
       "tag": "mim",
       "id": 174,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28335,7 +28335,7 @@
     {
       "tag": "mim",
       "id": 175,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28437,7 +28437,7 @@
     {
       "tag": "mim",
       "id": 176,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28603,7 +28603,7 @@
     {
       "tag": "mim",
       "id": 177,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -28771,7 +28771,7 @@
     {
       "tag": "mim",
       "id": 178,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -29039,7 +29039,7 @@
     {
       "tag": "mim",
       "id": 179,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -29121,7 +29121,7 @@
     {
       "tag": "mim",
       "id": 180,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -29304,7 +29304,7 @@
     {
       "tag": "mim",
       "id": 181,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -29742,7 +29742,7 @@
     {
       "tag": "mim",
       "id": 183,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -29949,7 +29949,7 @@
     {
       "tag": "mim",
       "id": 184,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -30456,7 +30456,7 @@
     {
       "tag": "mim",
       "id": 186,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -30577,7 +30577,7 @@
     {
       "tag": "mim",
       "id": 187,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -30901,7 +30901,7 @@
     {
       "tag": "mim",
       "id": 188,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -31005,7 +31005,7 @@
     {
       "tag": "mim",
       "id": 189,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -31116,7 +31116,7 @@
     {
       "tag": "mim",
       "id": 190,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -32000,7 +32000,7 @@
     {
       "tag": "mim",
       "id": 194,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -32130,7 +32130,7 @@
     {
       "tag": "mim",
       "id": 195,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -32982,7 +32982,7 @@
     {
       "tag": "mim",
       "id": 200,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -33216,7 +33216,7 @@
     {
       "tag": "mim",
       "id": 201,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -34816,7 +34816,7 @@
     {
       "tag": "mim",
       "id": 204,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -34917,7 +34917,7 @@
     {
       "tag": "mim",
       "id": 205,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -35075,7 +35075,7 @@
     {
       "tag": "mim",
       "id": 206,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -35303,7 +35303,7 @@
     {
       "tag": "mim",
       "id": 207,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -35435,7 +35435,7 @@
     {
       "tag": "mim",
       "id": 208,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -35631,7 +35631,7 @@
     {
       "tag": "mim",
       "id": 209,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -35838,7 +35838,7 @@
     {
       "tag": "mim",
       "id": 210,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -36029,7 +36029,7 @@
     {
       "tag": "mim",
       "id": 211,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -36261,7 +36261,7 @@
     {
       "tag": "mim",
       "id": 212,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -36415,7 +36415,7 @@
     {
       "tag": "mim",
       "id": 213,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -36773,7 +36773,7 @@
     {
       "tag": "mim",
       "id": 216,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37126,7 +37126,7 @@
     {
       "tag": "mim",
       "id": 219,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37213,7 +37213,7 @@
     {
       "tag": "mim",
       "id": 220,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37363,7 +37363,7 @@
     {
       "tag": "mim",
       "id": 221,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37460,7 +37460,7 @@
     {
       "tag": "mim",
       "id": 222,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37646,7 +37646,7 @@
     {
       "tag": "mim",
       "id": 223,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37786,7 +37786,7 @@
     {
       "tag": "mim",
       "id": 224,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -37969,7 +37969,7 @@
     {
       "tag": "mim",
       "id": 225,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -38119,7 +38119,7 @@
     {
       "tag": "mim",
       "id": 226,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -38349,7 +38349,7 @@
     {
       "tag": "mim",
       "id": 228,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -38590,7 +38590,7 @@
     {
       "tag": "nun",
       "id": 230,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -38850,7 +38850,7 @@
     {
       "tag": "nun",
       "id": 232,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39039,7 +39039,7 @@
     {
       "tag": "nun",
       "id": 233,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39256,7 +39256,7 @@
     {
       "tag": "nun",
       "id": 234,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39394,7 +39394,7 @@
     {
       "tag": "nun",
       "id": 235,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39554,7 +39554,7 @@
     {
       "tag": "nun",
       "id": 236,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39700,7 +39700,7 @@
     {
       "tag": "nun",
       "id": 237,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39797,7 +39797,7 @@
     {
       "tag": "nun",
       "id": 238,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -39889,7 +39889,7 @@
     {
       "tag": "nun",
       "id": 239,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -40028,7 +40028,7 @@
     {
       "tag": "nun",
       "id": 240,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -40108,7 +40108,7 @@
     {
       "tag": "nun",
       "id": 241,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -40216,7 +40216,7 @@
     {
       "tag": "nun",
       "id": 242,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -40831,7 +40831,7 @@
     {
       "tag": "nun",
       "id": 245,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41060,7 +41060,7 @@
     {
       "tag": "nun",
       "id": 246,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41172,7 +41172,7 @@
     {
       "tag": "nun",
       "id": 247,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41285,7 +41285,7 @@
     {
       "tag": "nun",
       "id": 248,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41518,7 +41518,7 @@
     {
       "tag": "nun",
       "id": 249,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41622,7 +41622,7 @@
     {
       "tag": "nun",
       "id": 250,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41731,7 +41731,7 @@
     {
       "tag": "nun",
       "id": 251,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41814,7 +41814,7 @@
     {
       "tag": "nun",
       "id": 252,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -41939,7 +41939,7 @@
     {
       "tag": "nun",
       "id": 253,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42101,7 +42101,7 @@
     {
       "tag": "nun",
       "id": 254,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42247,7 +42247,7 @@
     {
       "tag": "nun",
       "id": 255,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42399,7 +42399,7 @@
     {
       "tag": "nun",
       "id": 256,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42520,7 +42520,7 @@
     {
       "tag": "nun",
       "id": 257,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42716,7 +42716,7 @@
     {
       "tag": "nun",
       "id": 258,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -42855,7 +42855,7 @@
     {
       "tag": "nun",
       "id": 259,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -43070,7 +43070,7 @@
     {
       "tag": "nun",
       "id": 260,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -43593,7 +43593,7 @@
     {
       "tag": "nun",
       "id": 263,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -43684,7 +43684,7 @@
     {
       "tag": "nun",
       "id": 264,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -43858,7 +43858,7 @@
     {
       "tag": "nun",
       "id": 265,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -43970,7 +43970,7 @@
     {
       "tag": "nun",
       "id": 266,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44090,7 +44090,7 @@
     {
       "tag": "nun",
       "id": 267,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44210,7 +44210,7 @@
     {
       "tag": "nun",
       "id": 268,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44370,7 +44370,7 @@
     {
       "tag": "nun",
       "id": 269,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44524,7 +44524,7 @@
     {
       "tag": "nun",
       "id": 270,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44632,7 +44632,7 @@
     {
       "tag": "nun",
       "id": 271,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -44936,7 +44936,7 @@
     {
       "tag": "nun",
       "id": 273,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45194,7 +45194,7 @@
     {
       "tag": "nun",
       "id": 274,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45285,7 +45285,7 @@
     {
       "tag": "nun",
       "id": 275,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45402,7 +45402,7 @@
     {
       "tag": "nun",
       "id": 276,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45539,7 +45539,7 @@
     {
       "tag": "nun",
       "id": 277,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45693,7 +45693,7 @@
     {
       "tag": "nun",
       "id": 278,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -45871,7 +45871,7 @@
     {
       "tag": "nun",
       "id": 279,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46094,7 +46094,7 @@
     {
       "tag": "nun",
       "id": 280,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46248,7 +46248,7 @@
     {
       "tag": "nun",
       "id": 281,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46415,7 +46415,7 @@
     {
       "tag": "nun",
       "id": 282,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46505,7 +46505,7 @@
     {
       "tag": "nun",
       "id": 283,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46651,7 +46651,7 @@
     {
       "tag": "nun",
       "id": 284,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46837,7 +46837,7 @@
     {
       "tag": "vav",
       "id": 286,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -46971,7 +46971,7 @@
     {
       "tag": "vav",
       "id": 287,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -47215,7 +47215,7 @@
     {
       "tag": "vav",
       "id": 288,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -47384,7 +47384,7 @@
     {
       "tag": "vav",
       "id": 289,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -47538,7 +47538,7 @@
     {
       "tag": "vav",
       "id": 290,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -47723,7 +47723,7 @@
     {
       "tag": "vav",
       "id": 291,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -47827,7 +47827,7 @@
     {
       "tag": "vav",
       "id": 292,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -48106,7 +48106,7 @@
     {
       "tag": "vav",
       "id": 294,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49018,7 +49018,7 @@
     {
       "tag": "vav",
       "id": 296,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49127,7 +49127,7 @@
     {
       "tag": "vav",
       "id": 297,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49278,7 +49278,7 @@
     {
       "tag": "vav",
       "id": 298,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49416,7 +49416,7 @@
     {
       "tag": "vav",
       "id": 299,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49554,7 +49554,7 @@
     {
       "tag": "vav",
       "id": 300,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49705,7 +49705,7 @@
     {
       "tag": "vav",
       "id": 301,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -49901,7 +49901,7 @@
     {
       "tag": "vav",
       "id": 302,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -50261,7 +50261,7 @@
     {
       "tag": "vav",
       "id": 303,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -50411,7 +50411,7 @@
     {
       "tag": "vav",
       "id": 304,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -50549,7 +50549,7 @@
     {
       "tag": "vav",
       "id": 305,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -50740,7 +50740,7 @@
     {
       "tag": "vav",
       "id": 306,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -50934,7 +50934,7 @@
     {
       "tag": "vav",
       "id": 307,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51034,7 +51034,7 @@
     {
       "tag": "vav",
       "id": 308,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51163,7 +51163,7 @@
     {
       "tag": "vav",
       "id": 309,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51254,7 +51254,7 @@
     {
       "tag": "vav",
       "id": 310,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51454,7 +51454,7 @@
     {
       "tag": "vav",
       "id": 311,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51599,7 +51599,7 @@
     {
       "tag": "vav",
       "id": 312,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -51814,7 +51814,7 @@
     {
       "tag": "vav",
       "id": 313,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -52057,7 +52057,7 @@
     {
       "tag": "vav",
       "id": 314,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -52521,7 +52521,7 @@
     {
       "tag": "vav",
       "id": 317,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -52742,7 +52742,7 @@
     {
       "tag": "vav",
       "id": 318,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -52967,7 +52967,7 @@
     {
       "tag": "vav",
       "id": 319,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53117,7 +53117,7 @@
     {
       "tag": "vav",
       "id": 320,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53354,7 +53354,7 @@
     {
       "tag": "vav",
       "id": 321,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53528,7 +53528,7 @@
     {
       "tag": "vav",
       "id": 322,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53614,7 +53614,7 @@
     {
       "tag": "vav",
       "id": 323,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53793,7 +53793,7 @@
     {
       "tag": "vav",
       "id": 324,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53866,7 +53866,7 @@
     {
       "tag": "vav",
       "id": 325,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -53992,7 +53992,7 @@
     {
       "tag": "vav",
       "id": 326,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54108,7 +54108,7 @@
     {
       "tag": "vav",
       "id": 327,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54438,7 +54438,7 @@
     {
       "tag": "vav",
       "id": 329,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54539,7 +54539,7 @@
     {
       "tag": "vav",
       "id": 330,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54651,7 +54651,7 @@
     {
       "tag": "vav",
       "id": 331,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54764,7 +54764,7 @@
     {
       "tag": "vav",
       "id": 332,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -54915,7 +54915,7 @@
     {
       "tag": "vav",
       "id": 333,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55073,7 +55073,7 @@
     {
       "tag": "vav",
       "id": 334,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55163,7 +55163,7 @@
     {
       "tag": "vav",
       "id": 335,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55570,7 +55570,7 @@
     {
       "tag": "vav",
       "id": 336,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55662,7 +55662,7 @@
     {
       "tag": "vav",
       "id": 337,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55742,7 +55742,7 @@
     {
       "tag": "vav",
       "id": 338,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -55885,7 +55885,7 @@
     {
       "tag": "vav",
       "id": 339,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56043,7 +56043,7 @@
     {
       "tag": "vav",
       "id": 340,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56148,7 +56148,7 @@
     {
       "tag": "vav",
       "id": 341,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56277,7 +56277,7 @@
     {
       "tag": "vav",
       "id": 342,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56394,7 +56394,7 @@
     {
       "tag": "vav",
       "id": 343,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56539,7 +56539,7 @@
     {
       "tag": "vav",
       "id": 344,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56627,7 +56627,7 @@
     {
       "tag": "vav",
       "id": 345,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -56769,7 +56769,7 @@
     {
       "tag": "vav",
       "id": 346,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -57367,7 +57367,7 @@
     {
       "tag": "ya",
       "id": 350,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -57484,7 +57484,7 @@
     {
       "tag": "ya",
       "id": 351,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -57712,7 +57712,7 @@
     {
       "tag": "ya",
       "id": 352,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -57862,7 +57862,7 @@
     {
       "tag": "ya",
       "id": 353,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -58063,7 +58063,7 @@
     {
       "tag": "ya",
       "id": 354,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -58259,7 +58259,7 @@
     {
       "tag": "ya",
       "id": 355,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -58468,7 +58468,7 @@
     {
       "tag": "ya",
       "id": 356,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -58999,7 +58999,7 @@
     {
       "tag": "ya",
       "id": 357,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -59557,7 +59557,7 @@
     {
       "tag": "ya",
       "id": 360,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -59761,7 +59761,7 @@
     {
       "tag": "ya",
       "id": 361,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -59869,7 +59869,7 @@
     {
       "tag": "ya",
       "id": 362,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60072,7 +60072,7 @@
     {
       "tag": "ya",
       "id": 363,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60183,7 +60183,7 @@
     {
       "tag": "ya",
       "id": 364,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60300,7 +60300,7 @@
     {
       "tag": "ya",
       "id": 365,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60434,7 +60434,7 @@
     {
       "tag": "ya",
       "id": 366,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60617,7 +60617,7 @@
     {
       "tag": "ya",
       "id": 367,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -60885,7 +60885,7 @@
     {
       "tag": "ya",
       "id": 368,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -61044,7 +61044,7 @@
     {
       "tag": "ya",
       "id": 369,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -61201,7 +61201,7 @@
     {
       "tag": "ya",
       "id": 370,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -61484,7 +61484,7 @@
     {
       "tag": "ya",
       "id": 371,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -61688,7 +61688,7 @@
     {
       "tag": "ya",
       "id": 372,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -62040,7 +62040,7 @@
     {
       "tag": "ya",
       "id": 374,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -62231,7 +62231,7 @@
     {
       "tag": "ya",
       "id": 375,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -62356,7 +62356,7 @@
     {
       "tag": "ya",
       "id": 376,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -62481,7 +62481,7 @@
     {
       "tag": "ya",
       "id": 377,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -62853,7 +62853,7 @@
     {
       "tag": "ya",
       "id": 379,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63029,7 +63029,7 @@
     {
       "tag": "ya",
       "id": 380,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63154,7 +63154,7 @@
     {
       "tag": "ya",
       "id": 381,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63305,7 +63305,7 @@
     {
       "tag": "ya",
       "id": 382,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63400,7 +63400,7 @@
     {
       "tag": "ya",
       "id": 383,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63508,7 +63508,7 @@
     {
       "tag": "ya",
       "id": 384,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -63962,7 +63962,7 @@
     {
       "tag": "ya",
       "id": 387,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64096,7 +64096,7 @@
     {
       "tag": "ya",
       "id": 388,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64221,7 +64221,7 @@
     {
       "tag": "ya",
       "id": 389,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64358,7 +64358,7 @@
     {
       "tag": "ya",
       "id": 390,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64442,7 +64442,7 @@
     {
       "tag": "ya",
       "id": 391,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64546,7 +64546,7 @@
     {
       "tag": "ya",
       "id": 392,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64650,7 +64650,7 @@
     {
       "tag": "ya",
       "id": 393,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64738,7 +64738,7 @@
     {
       "tag": "ya",
       "id": 394,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -64930,7 +64930,7 @@
     {
       "tag": "ya",
       "id": 395,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -65021,7 +65021,7 @@
     {
       "tag": "ya",
       "id": 396,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -65436,7 +65436,7 @@
     {
       "tag": "ya",
       "id": 397,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -65599,7 +65599,7 @@
     {
       "tag": "ya",
       "id": 398,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -65794,7 +65794,7 @@
     {
       "tag": "ya",
       "id": 399,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -65915,7 +65915,7 @@
     {
       "tag": "ya",
       "id": 400,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -66011,7 +66011,7 @@
     {
       "tag": "ya",
       "id": 401,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -66153,7 +66153,7 @@
     {
       "tag": "ya",
       "id": 402,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -66295,7 +66295,7 @@
     {
       "tag": "ya",
       "id": 403,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -66728,7 +66728,7 @@
     {
       "tag": "ya",
       "id": 406,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -66870,7 +66870,7 @@
     {
       "tag": "ya",
       "id": 407,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -67413,7 +67413,7 @@
     {
       "tag": "ya",
       "id": 411,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -67622,7 +67622,7 @@
     {
       "tag": "ya",
       "id": 412,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -67910,7 +67910,7 @@
     {
       "tag": "ya",
       "id": 413,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -68094,7 +68094,7 @@
     {
       "tag": "ya",
       "id": 414,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -68260,7 +68260,7 @@
     {
       "tag": "ya",
       "id": 415,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,
@@ -68569,7 +68569,7 @@
     {
       "tag": "ya",
       "id": 417,
-      "vezin": "Yok",
+      "vezin": "",
       "siir": [
         {
           "id": 1,

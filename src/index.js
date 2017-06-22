@@ -11,6 +11,97 @@ import {
 
 import { StackNavigator } from 'react-navigation';
 
+
+class Beyit extends React.Component {
+  render() {
+    return (
+        <View>
+          <Text style={ {fontSize: 15,} }>{this.props.beyit[0]}{"\n"}</Text>
+          <Text style={ {fontSize: 15,} }>{this.props.beyit[1]}{"\n"}</Text>
+        </View>
+  )
+  }
+}
+
+
+class Sozluk extends React.Component {
+
+  constructor() {
+    super()
+    this.state = {
+      sozlukVisible: false,
+    }
+  }
+
+  render() {
+
+
+
+    return (
+        <View>
+          {this.renderInfoButton(this.props.sozluk.length)}
+          {this.renderSozluk(this.props.sozluk)}
+          <View style={styles.separator}/>
+        </View>
+    )
+  }
+
+  renderInfoButton(length) {
+    if (length) {
+      return (
+          <TouchableOpacity onPress={() => this.toggleSozlukVisible()}><Text>ⓘ{"\n"}</Text></TouchableOpacity>
+      )
+    }
+  }
+
+  renderSozluk(sozluk) {
+    if (this.state.sozlukVisible) {
+      let wordsCount = 0;
+      let words = sozluk.map((k) => {
+          return (
+              <Text  key={wordsCount++} style={{fontSize: 12, }}><Text style={{fontWeight: 'bold'}}>{k.a}</Text>{k.b}{"\n"}</Text>
+          )
+      })
+      return words;
+    }
+  }
+
+  toggleSozlukVisible() {
+    sozlukVisible = !this.state.sozlukVisible;
+    this.setState({sozlukVisible});
+  }
+}
+
+
+class Siir extends React.Component {
+  render() {
+    return (
+        <View>
+          <Text style={{fontWeight: 'bold', fontSize: 15,}}>{this.props.siir.id}{"\n"}</Text>
+          <Beyit beyit={this.props.siir.beyit}/>
+          <Sozluk sozluk={this.props.siir.sozluk}/>
+        </View>
+    )
+  }
+}
+
+class Poem extends React.Component {
+  render() {
+
+    poemView = this.props.poem.siir.map((siir) => {
+      return <Siir key={siir.id} siir={siir}/>
+    })
+
+    return (
+      <View>
+        <Text style={{fontSize: 10,}}>{this.props.poem.vezin}</Text>
+        {poemView}
+      </View>
+
+    )
+  }
+}
+
 class PoemScreen extends React.Component {
 
   constructor(props) {
@@ -19,7 +110,6 @@ class PoemScreen extends React.Component {
 
     this.state = {
       sozlukVisible: [],
-      scrollOffset: 0,
     }
 
   }
@@ -29,75 +119,22 @@ class PoemScreen extends React.Component {
     title: navigation.state.params.poem.siir[0].beyit[0],
   });
 
-
+  componentDidMount() {
+  }
 
   render() {
     // The screen's current route is passed in to `props.navigation.state`:
     const { params } = this.props.navigation.state;
 
     return (
-        <ScrollView
-            ref={ref => this.scrollView = ref}
-            onScroll={(handleScroll) => this.handleScroll = handleScroll}
-
-        >
+        <ScrollView>
           <View select style={styles.container}>
-            <Text selectable={true}>
-              {this.renderPoem(params.poem)}
-            </Text>
+            <Poem poem={params.poem}/>
           </View>
         </ScrollView>
     );
   }
-
-  renderPoem(poem) {
-    beyits = poem.siir.map( (siir) => {
-      return (
-          <Text key={siir.id}>
-            <Text style={{fontWeight: 'bold', fontSize: 15,}}>{siir.id}{"\n"}</Text>
-            <Text style={ {fontSize: 15,} }>{siir.beyit[0]}{"\n"}</Text>
-            <Text style={ {fontSize: 15,} }>{siir.beyit[1]} {this.renderSozlukButton(siir.sozluk.length, siir.id)} {"\n"}</Text>
-            <Text>{"\n"}</Text>
-            {this.renderSozluk(siir.sozluk, siir.id)}
-            <Text>{"\n"}</Text>
-          </Text>
-      );
-    })
-    return beyits;
-  }
-
-  renderSozluk(sozluk, siirId) {
-    let wordsCount = 0;
-    let words = sozluk.map((k) => {
-      if (this.state.sozlukVisible[siirId]) {
-        return (
-            <Text key={wordsCount++} style={{fontSize: 12, }}><Text style={{fontWeight: 'bold'}}>{k.a}</Text>{k.b}{"\n"}</Text>
-        )
-      }
-    })
-    return words;
-  }
-
-  renderSozlukButton(length, siirId) {
-    if (length && length > 0) {
-
-
-      sozlukVisible = this.state.sozlukVisible;
-      return <Text onPress={() =>  {
-
-      }}>ⓘ</Text>;
-    }
-  }
-
-  handleScroll(e:Object) {
-    console.log(e.nativeEvent.contentOffset.y);
-    scrollOffset = e.nativeEvent.contentOffset.y;
-
-    console.log(scrollOffset);
-  }
 }
-
-
 
 const SectionHeader = (props) => (
     <View style={styles.container}>
